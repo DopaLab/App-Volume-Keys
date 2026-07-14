@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="releases/latest/download/AppVolumeKeys.exe">
+  <a href="https://github.com/DopaLab/App-Volume-Keys/releases/latest/download/AppVolumeKeys.exe">
     <img alt="Download AppVolumeKeys.exe" src="https://img.shields.io/badge/Download-AppVolumeKeys.exe-72a4f2?style=for-the-badge&logo=windows">
   </a>
   <a href="https://ko-fi.com/S6S1CPXYA">

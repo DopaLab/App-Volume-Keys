@@ -45,7 +45,7 @@ You can change both keys from the app's settings window.
 
 Get the latest Windows build here:
 
-**[Download AppVolumeKeys.exe](releases/tag/v1.0.0)**
+[![Download AppVolumeKeys.exe](https://img.shields.io/badge/Download-AppVolumeKeys.exe-blue?style=for-the-badge&logo=github)](https://github.com/DopaLab/App-Volume-Keys/releases/latest/download/AppVolumeKeys.exe)
 
 Windows may show an "unknown publisher" warning because the app is not code-signed.
 

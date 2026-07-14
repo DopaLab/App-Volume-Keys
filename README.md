@@ -5,7 +5,7 @@
 <h1 align="center">App Volume Keys</h1>
 
 <p align="center">
-  A tiny Windows tray app for controlling the volume of the app you are currently using.
+  A little Windows tray utility for customizing which buttons control your PC's volume.
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## Why this exists
 
-Windows lets you control system volume quickly, but controlling the volume of the foreground app is still awkward. App Volume Keys keeps that simple: choose two keys, keep the app in the tray, and adjust the volume of whatever app you are actively using.
+If your keyboard doesn't have designated keys for volume control. App Volume Keys fix that: choose two keys to assign for volume up/down, keep the app in the tray, and adjust the volume of whatever app you are actively using.
 
 By default:
 

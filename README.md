@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" alt="App Volume Keys icon" width="96" height="96">
+  <img src="assets/icon1.png" alt="App Volume Keys icon" width="96" height="96">
 </p>
 
 <h1 align="center">App Volume Keys</h1>
